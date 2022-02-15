@@ -1,0 +1,5 @@
+// iniciar o mysql na máquina local através do docker
+
+# systemctl start docker
+
+# docker start mysql_jdbc

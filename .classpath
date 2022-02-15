@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="exe_set/src"/>
+	<classpathentry kind="src" path="exe-stream/src"/>
+	<classpathentry kind="src" path="files - exercise/src"/>
+	<classpathentry kind="src" path="LearnJDBC/src"/>
+	<classpathentry kind="src" path="LearnJDBC2/src"/>
+	<classpathentry kind="src" path="map_exe/src"/>
+	<classpathentry kind="output" path="LearnJDBC/bin"/>
+</classpath>
